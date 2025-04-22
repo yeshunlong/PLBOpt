@@ -161,4 +161,12 @@ cython_debug/
 
 *.png
 *.py
+*.pth
+best_log
+data
+dataloaders
+model
+networks
+plbopt
+utils
 README2.md
